@@ -4,8 +4,8 @@ GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩
 
 ## Usage
 
-This GitHub Action will run `gatsby build` at the root of your repository and
-deploy it to GitHub Pages for you! Here's a basic workflow example:
+This GitHub Action will run `gatsby build` at the root of your repository
+and deploy it to GitHub Pages for you! Here's a basic workflow example:
 
 ```yml
 name: Gatsby Publish
